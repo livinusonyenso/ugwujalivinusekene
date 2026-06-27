@@ -88,7 +88,7 @@ export default function Header() {
               transition={{ duration: 0.5, delay: 0.7 }}
             >
               <Button size="sm" asChild>
-                <a href="/UGWUJA_LIVINUS_EKENE_CV.pdf" target="_blank" rel="noopener noreferrer">
+                <a href="/Ugwuja_Livinus_Ekene.pdf" target="_blank" rel="noopener noreferrer">
                   Resume
                 </a>
               </Button>
@@ -140,7 +140,7 @@ export default function Header() {
                 ))}
                 <li>
                   <Button size="sm" asChild className="w-full">
-                    <a href="/ugwuja_livinus_ekene_cv.pdf" target="_blank" rel="noopener noreferrer">
+                    <a href="/Ugwuja_Livinus_Ekene.pdf" target="_blank" rel="noopener noreferrer">
                       Resume
                     </a>
                   </Button>
